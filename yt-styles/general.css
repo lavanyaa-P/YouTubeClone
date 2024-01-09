@@ -1,0 +1,10 @@
+
+body{
+    /*comments 1n css*/
+    font-family: Roboto,arial;
+    background-color: rgb(248,248,248);
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+}
